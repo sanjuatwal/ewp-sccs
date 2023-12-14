@@ -1,0 +1,30 @@
+
+Toggle:True  #turn this to true if it is fales otherwise if true do nothing
+
+Extra configs
+blah blah blah
+
+
+blah
+blah
+
+Third Party:
+  Version: 1.0.0
+  URL: something/something.1.0.0.jar
+
+blah blah
+
+Infrastructure:
+  Dev: 
+    Dev1  #lol
+    Sys1  #lol
+    Sys2  #lol
+
+  Pat:
+    pat1  #lol
+    pat2  #lol
+
+  Prod:
+    prod1  #lol
+    prod2  #lol
+    prod3  #lol
